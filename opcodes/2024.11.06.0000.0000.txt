@@ -1,2 +1,0 @@
-ZoneUp=415
-ZoneDown=606,175
